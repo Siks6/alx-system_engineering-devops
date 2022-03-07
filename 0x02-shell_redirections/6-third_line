@@ -1,2 +1,2 @@
 #!/bin/bash
-head --lines=3 iacata
+head --lines=3 iacata | tail --lines=1
